@@ -1,1 +1,2 @@
-# Genetic-algorithm-for-tuning-PID-parameters-
+# Description
+The genetic algorithm implemented in Matlab for tuning PID parameters of a second-order system with a hard nonlinearity (called from Simulink). The objective function is a mean squared error (setpoint is one). Solver is [ga] (https://www.mathworks.com/help/gads/ga.html/), and the parameters are initialized provisionally. A video of a search is included.
